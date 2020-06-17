@@ -10,7 +10,6 @@ import img7 from "../../img/7.gif";
 import ReactRotatingText from "react-rotating-text";
 import { PropTypes } from "prop-types";
 import { connect } from "react-redux";
-import TextFieldGroup from "../common/TextFieldGroup";
 
 class Landing extends Component {
   componentDidMount() {
