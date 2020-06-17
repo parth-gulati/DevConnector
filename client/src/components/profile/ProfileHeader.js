@@ -65,7 +65,7 @@ class ProfileHeader extends Component {
                     <i class="fab fa-linkedin fa-2x"></i>
                   </a>
                 )}
-
+                
                 {isEmpty(profile.social && profile.social.instagram) ? null : (
                   <a
                     class="text-white p-2"
